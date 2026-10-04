@@ -4,7 +4,7 @@
   "description": "- Arman Milani - George Brown Polytechnic",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests specified yet"
+    "test": "echo No tests specified yet"
   },
   "repository": {
     "type": "git",
